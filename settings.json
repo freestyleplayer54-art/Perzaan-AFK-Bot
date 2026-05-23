@@ -6,12 +6,12 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Stevearmy.aternos.me",
+    "port":42258,
     "version": "1.21.1"
   },
   "position": {
-    "enabled": true,
+    "enabled": tr\"enabled\": true,ue,
     "x": 0,
     "y": 100,
     "z": 0
