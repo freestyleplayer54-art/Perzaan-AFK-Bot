@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Stevearmy.aternos.me:",
+    "ip": "Stevearmy.aternos.me",
     "port": 42258,
     "version": "1.21.1"
   },
